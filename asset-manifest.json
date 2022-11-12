@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b048b44.css",
+    "main.css": "/static/css/main.de20ce3d.css",
     "main.js": "/static/js/main.47869427.js",
     "static/media/footer-aqarium.jpg": "/static/media/footer-aqarium.2e7f05e1f53a866da511.jpg",
     "static/media/03-2.dwarf-gourami.jpg": "/static/media/03-2.dwarf-gourami.ea6357ae73feb3a49d3a.jpg",
@@ -76,11 +76,11 @@
     "static/media/2-1.jpg": "/static/media/2-1.947ddc0c32ccc2efb2b5.jpg",
     "static/media/6hfd-300x200.jpg": "/static/media/6hfd-300x200.5124a5174ce19c047c96.jpg",
     "index.html": "/index.html",
-    "main.4b048b44.css.map": "/static/css/main.4b048b44.css.map",
+    "main.de20ce3d.css.map": "/static/css/main.de20ce3d.css.map",
     "main.47869427.js.map": "/static/js/main.47869427.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b048b44.css",
+    "static/css/main.de20ce3d.css",
     "static/js/main.47869427.js"
   ]
 }
